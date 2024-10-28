@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "name": "auto",
+      "othername": "car"
+    },
+    {
+      "id": "2",
+      "name": "talo",
+      "othername": "house"
+    }
+  ]
+}
